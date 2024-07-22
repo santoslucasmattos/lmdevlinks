@@ -19,7 +19,7 @@ Programa exclusivo e gratuito, promovido por LucasDev. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto LM DevLinks" src="./GitHub/CAPA FINAL.jpg" width="100%">
+  <img alt="projeto LM DevLinks" src=".GitHub/CAPA FINAL.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -35,7 +35,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
 
 ## :memo: Licença
 
