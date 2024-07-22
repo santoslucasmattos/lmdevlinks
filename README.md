@@ -19,7 +19,7 @@ Programa exclusivo e gratuito, promovido por LucasDev. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto LM DevLinks" src=https://drive.google.com/file/d/1v8sm_hZ0iJQ8xCk1QxP4j1fjb5dQTlmh/view" width="100%">
+  <img alt="projeto LM DevLinks" src=file:///C:/Users/lucas.mattos/Downloads/CAPA%20FINAL.webp" width="100%">
 </p>
 
 ## 🚀 Tecnologias
