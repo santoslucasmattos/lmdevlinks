@@ -19,7 +19,7 @@ Programa exclusivo e gratuito, promovido por LucasDev. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto LM DevLinks" src=[file:///C:/Users/lucas.mattos/Downloads/CAPA%20FINAL.webp](https://www.facebook.com/photo.php?fbid=7860757137326088&set=pb.100001756407207.-2207520000&type=3)" width="100%">
+  <img alt="projeto LM DevLinks" src="https://scontent.fcfc1-1.fna.fbcdn.net/v/t39.30808-6/452321087_7860757133992755_7649217133328374858_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGp2yHBRWOOv6Oad4JJ0vKzUGr2NCTBibVQavY0JMGJtWKvEziWlZW-0HPGGm07keSG84U3bNz_iETHX7cR41bK&_nc_ohc=-ccx6yu4az8Q7kNvgFq7rAF&_nc_ht=scontent.fcfc1-1.fna&oh=00_AYDRymYaPKo8-HDOtiNleRjiQgUTAvcn6Kuk5cAKbBbdNA&oe=66A45940" width="100%">
 </p>
 
 ## 🚀 Tecnologias
